@@ -28,6 +28,5 @@ A clean and modern newsletter subscription form.
 A clean and modern newsletter subscription form.
 
 ## Screenshot
-![Newsletter Form Screenshot](images/newsletter-form.png)
-)
+![Newsletter Form Screenshot](https://github.com/7225859103/Tailwind-CSS/blob/main/Gallery/Screenshot%202025-08-31%20221402.png)
 
